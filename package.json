@@ -1,15 +1,19 @@
 {
-  "name": "hellox",
+  "name": "helloapp",
   "version": "1.0.0",
-  "description": "my deployed hello",
+  "description": "node app ",
   "main": "hello.js",
   "scripts": {
-    "test": "node hello.js"
-  },
+  "start": "node hello.js"
+},
   "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "type": "git",
+  "url": ""
+},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
 }
